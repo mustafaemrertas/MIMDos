@@ -32,13 +32,6 @@ MIMDos, belirli bir hedef IP adresine ve portuna UDP paketleri gönderen bir str
 2. Uygulama, belirttiğiniz bant genişliğini aşana kadar UDP paketleri göndermeye devam edecektir.
 3. Gönderim süresi boyunca konsolda sonuçlar görüntülenir.
 
-### Örnek Kullanım
-
-   ```bash
-   - Hedef IP adresini girin: 192.168.1.1
-   - Hedef Port numarasını girin: 8080
-   ```bash
-
 ## Katkıda Bulunma
 Eğer bu projeye katkıda bulunmak isterseniz, lütfen aşağıdaki adımları izleyin:
 
@@ -46,3 +39,9 @@ Eğer bu projeye katkıda bulunmak isterseniz, lütfen aşağıdaki adımları i
 2. Yeni bir özellik oluşturun veya hata düzeltmeleri için bir dal (branch) açın
 3. Değişikliklerinizi ayarlayın ve commit (tamamlama) işlemini yapın
 4. Pull request (pull isteği) oluşturun
+
+### Örnek Kullanım
+
+   ```bash
+   - Hedef IP adresini girin: 192.168.1.1
+   - Hedef Port numarasını girin: 8080
