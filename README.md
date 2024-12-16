@@ -33,6 +33,7 @@ MIMDos, belirli bir hedef IP adresine ve portuna UDP paketleri gönderen bir str
 3. Gönderim süresi boyunca konsolda sonuçlar görüntülenir.
 
 ### Örnek Kullanım
+
    ```bash
    Hedef IP adresini girin: 192.168.1.1
    Hedef Port numarasını girin: 8080
